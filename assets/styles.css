@@ -1,0 +1,13 @@
+* {
+  font-size: 110%;
+}
+body {
+  background-color: #bee5d3;
+  color: #ff4646;
+  text-align: center;
+}
+@media only screen and (min-width: 600px) {
+  * {
+    font-size: 130%;
+  }
+}
